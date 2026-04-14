@@ -85,11 +85,10 @@ The impact of runtime differs significantly across genres:
 * Aggregation Effects: Genre and runtime grouping may mask variation within individual films and subgenres.
 
 ## 🖼️ Sample Visualizations
-Visualisations/numvotes_across_eras.png
-Visualisations/optimalruntime_decade.png
-Visualisations/runtime_numvotes.png
-Visualisations/runtime_variability.png
-Visualisations/runtimegroup_ratings.png
+![Alt text](Visualisations/numvotes_across_eras.png)
+![Alt text](Visualisations/optimalruntime_decade.png)
+![Alt text](Visualisations/runtime_numvotes.png)
+![Alt text](Visualisations/runtime_variability.png)
 
 ---
 ## 🚀 How to Use This Project
