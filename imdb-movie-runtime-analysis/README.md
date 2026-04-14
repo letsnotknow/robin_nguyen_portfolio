@@ -87,7 +87,6 @@ The impact of runtime differs significantly across genres:
 ## 🖼️ Sample Visualizations
 ![Alt text](Visualisations/numvotes_across_eras.png)
 ![Alt text](Visualisations/optimalruntime_decade.png)
-![Alt text](Visualisations/runtime_numvotes.png)
 ![Alt text](Visualisations/runtime_variability.png)
 
 ---
