@@ -71,7 +71,7 @@ I’m especially interested in opportunities within tech, finance, fintech, and 
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/robin-nguyen-406166278/
 - 📧 Email: nlinhnguyen2603@gmail.com
 - 🌐 Portfolio: https://letsnotknow.github.io/robin_nguyen_portfolio/
 
